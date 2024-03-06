@@ -17,3 +17,9 @@ Något som kan vara bra att ha:
 - https://www.w3schools.com/jquery/jquery_ref_ajax.asp
 - https://www.w3schools.com/jquery/jquery_ajax_get_post.asp
 - https://www.youtube.com/watch?v=cPyKl2LTtr8&list=PLz_6dB4PItBGBrFeexo-BzO9JHDAhjnQq&index=4&ab_channel=RichardStibbardWebDevelopmentTutorials
+
+## Links Used
+- https://api.jqueryui.com/sortable/#event-update
+- https://www.w3schools.com/jquery/jquery_callback.asp#gsc.tab=0
+- https://api.jquery.com/jQuery.post/
+- https://webdesign.tutsplus.com/create-a-sticky-note-effect-in-5-easy-steps-with-css3-and-html5--net-13934t
